@@ -17,17 +17,8 @@
 		<!-- <string>se.bonniernews.filewave.test.installapplications</string> -->
 		<!-- <string>--ldidentifier</string> -->
 		<!-- <string>se.bonniernews.filewave.test.installapplications</string> -->
-        <string>--depnotify</string>
-        <string>DEPNotifySkipStatus</string>
-        <string>Command: WindowTitle: Välkommen till Bonnier News!</string>
-        <string>Command: NotificationOn:</string>
-        <string>Command: Quit: Grundinstallationen av din dator är strax klar.</string>
-        <string>Command: WindowStyle: ActivateOnStep</string>
-        <string>DEPNotifyPath: /Applications/Utilities/DEPNotify.app</string>
-        <string>DEPNotifyArguments: -filewave</string>
-        <!-- <string>DEPNotifyArguments: -filewave -fullScreen</string> -->
 		<!-- <string>--reboot</string> -->
-		<!-- <string>--skip-validation</string> -->
+		<string>--skip-validation</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
