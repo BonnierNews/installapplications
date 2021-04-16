@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>se.bonniernews.filewave.test.installapplications</string>
+	<string>com.erikng.installapplications</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/Library/installapplications/Python.framework/Versions/Current/bin/python3</string>
@@ -14,9 +14,9 @@
 		<!-- <string>--iapath</string> -->
 		<!-- <string>/Library/installapplications/installapplications</string> -->
 		<!-- <string>--laidentifier</string> -->
-		<!-- <string>se.bonniernews.filewave.test.installapplications</string> -->
+		<!-- <string>com.erikng.installapplications</string> -->
 		<!-- <string>--ldidentifier</string> -->
-		<!-- <string>se.bonniernews.filewave.test.installapplications</string> -->
+		<!-- <string>com.erikng.installapplications</string> -->
 		<!-- <string>--reboot</string> -->
 		<string>--skip-validation</string>
 	</array>

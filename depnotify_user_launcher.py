@@ -114,7 +114,7 @@ def is_app_running(appname):
 def launch_depnotify():
     '''Launch DEPNotify'''
     dn_path = '/Applications/Utilities/DEPNotify.app'
-    subprocess.call(['/usr/bin/open', dn_path, '--args', '-filewave'])
+    subprocess.call(['/usr/bin/open', dn_path, '--args', '--filewave'])
 
 
 def kill_depnotify():
